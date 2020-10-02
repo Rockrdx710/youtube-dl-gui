@@ -33,6 +33,7 @@ A cross platform front-end GUI of the popular [youtube-dl](https://rg3.github.io
 
 ### Install PyPi
 1. Run `pip install youtube-dlg`
+#if ur geeting error like pip isnt recoginzed. To solve it make sure u have added pip into your enviroment variable.
 
 ### Install Windows Installer
 1. Download & extract the Windows installer
